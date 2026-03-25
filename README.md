@@ -1,16 +1,46 @@
-## Hi there 👋
+Hi, I'm Keshika Verma 👋
 
-<!--
-**keshika-verma/keshika-verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Aspiring Computer Scientist | ✍️ Writer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+* I'm passionate about **technology, problem-solving, and building projects**
+* Currently exploring **open source (GSSoC), web development, and AI**
+* I love combining **tech + creativity**
+
+---
+
+💼 What I'm Working On
+
+* 🌐 Personal Website: [Portfolio](https://keshika-verma.github.io/KeshikaVerma/)
+* 📚 Preparing for open source contributions (GSSoC)
+
+---
+
+🛠️ Skills
+
+* HTML, CSS
+* Git & GitHub
+* Basic Programming (Python / C++ if applicable)
+
+---
+
+📈 Goals for 2026
+
+* Contribute to open source (GSSoC)
+* Build strong projects
+* Grow as a developer
+
+---
+
+📫 Connect with Me
+
+* LinkedIn: (add your link)
+* Email: (optional)
+
+---
+
+⭐ *Always learning, always building*
+
